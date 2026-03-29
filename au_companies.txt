@@ -1,0 +1,432 @@
+AAMI
+ABC
+AGL
+AMP
+AP Eagers
+APA Group
+APT Travel Group
+ARB Corporation
+ARN Media
+AWE Limited
+ActewAGL
+Adbri
+Airtasker
+Airwallex
+Alinta Energy
+Allens
+Allied Express
+Altium
+Amart Sports
+Ampol
+Anaconda
+Anglicare
+Ansell
+Appen
+Aramex
+Arnott's
+Arup
+Asahi
+Aspen Medical
+Atlas Arteria
+Aurecon
+Aurizon
+AusNet
+Aussie Broadband
+Australia Post
+Australian Clinical Labs
+Australian Financial Review
+Australian National University
+Australian Pharmaceutical Industries
+Australian Unity
+Auswide Bank
+Autobarn
+Automotive Holdings Group
+BCF
+BDO Australia
+BWP Trust
+Bank of Queensland
+Bapcor
+Baptist Care
+Beach Energy
+Bega Cheese
+Bendigo Bank
+Best & Less
+Beyond Bank
+Beyond Blue
+Big W
+Bond University
+Bonza
+Boost Juice
+Boral
+Box Hill Institute
+Brickworks
+Brighte
+Brotherhood of St Laurence
+Budget Direct
+Built
+Bunnings
+Bupa
+CGU Insurance
+CIMIC Group
+CPB Contractors
+CSR Limited
+Canstar
+Canva
+Capitol Health
+Cardno
+Carlton & United Breweries
+Catholic Care
+Central Queensland University
+Cerebral Palsy Alliance
+Challenger
+Champion Iron
+Charles Sturt University
+Charter Hall
+Chemist Warehouse
+CitiPower
+City Beach
+Clayton Utz
+Cleanaway
+Coca-Cola Amatil
+Cochlear
+Coles
+Colin Biggers & Paisley
+Collins Foods
+Computershare
+Coronado Global Resources
+Corporate Travel Management
+Corrs Chambers Westgarth
+Costa Group
+Cotton On
+Country Road
+Couriers Please
+Cover-More
+Cromwell Property Group
+Crown Resorts
+Culture Amp
+Curtin University
+DP World
+DXC Technology
+Daily Telegraph
+Data#3
+Datacom
+David Jones
+Deakin University
+Deputy
+Deterra Royalties
+Dexus
+Dodo
+Domino's Pizza
+Donut King
+Dorevitch Pathology
+Dotti
+Downer Group
+EML Payments
+Eagers Automotive
+Ebos Group
+Elders
+ElectraNet
+Employment Hero
+Endeavour Energy
+Endeavour Foundation
+EnergyAustralia
+Envato
+Ergon Energy
+Essential Energy
+Event Hospitality and Entertainment
+Evolution Mining
+Federation University
+Finder
+Findex
+Fineos
+Flight Centre
+Flinders University
+Foodbank Australia
+Fortescue Metals
+Freelancer
+GHD
+GIO
+GMHBA
+GPT Group
+GUD Holdings
+Gadens
+GenesisCare
+George Weston Foods
+Gilbert + Tobin
+Gloria Jean's Coffees
+Goodman Fielder
+Goodman Group
+GrainCorp
+Grant Thornton
+Greater Bank
+Griffith University
+Growthpoint Properties
+Guide Dogs Australia
+Guzman y Gomez
+HBF
+HCF
+HLB Mann Judd
+Hall & Wilcox
+Hansen Technologies
+Harris Scarfe
+Harvey Norman
+Healius
+Healthscope
+Helloworld
+Herald Sun
+Hollard Insurance
+Horizon Power
+Hoyts
+Hume Bank
+Hungry Jack's
+I-Med Radiology
+IAG
+IDP Education
+IGA
+IGO
+Iluka Resources
+Imaging Queensland
+Incitec Pivot
+Infomedia
+Ingham's
+Integral Diagnostics
+Internode
+Iress
+JB Hi-Fi
+Jemena
+Jetstar
+John Holland
+Judo Bank
+Kaplan Australia
+Katies
+Kids Helpline
+King & Wood Mallesons
+Kleinfelder
+Kmart
+La Trobe University
+Latitude Financial
+Lendlease
+Life Without Barriers
+Lifeline
+Linfox
+Linktree
+Lion
+Lowes
+Lumo Energy
+Lumus Imaging
+Lynas Rare Earths
+ME Bank
+Macquarie University
+Magellan Financial Group
+Maurice Blackburn
+Medibank
+Megaport
+Members Equity Bank
+Metcash
+Michel's Patisserie
+Millers
+Mimco
+Mineral Resources
+Minter Ellison
+Mirvac
+Mission Australia
+Monash IVF
+Monash University
+Mozo
+Multiplex
+MyRepublic
+MyState Bank
+Myer
+NEXTDC
+NIB
+NRMA
+National Storage REIT
+Navitas
+Netwealth
+New Hope Corporation
+Newcastle Permanent
+Newcrest Mining
+Nine Entertainment
+Noni B
+North Metropolitan TAFE
+Northern Star Resources
+Northline
+Nova Entertainment
+Nufarm
+Nuix
+OZ Minerals
+Object Consulting
+Objective Corporation
+Officeworks
+Oporto
+Optus
+Orica
+Origin Energy
+Origin Energy
+Orora
+OzHarvest
+P&N Bank
+Pacific National
+Palace Cinemas
+Patrick Terminals
+Pendal Group
+Penfolds
+Perpetual
+Petbarn
+Peter Warren Automotive
+Pilbara Minerals
+Pinnacle Investment Management
+Pitcher Partners
+Platinum Asset Management
+Politix
+Polynovo
+Portmans
+Powercor
+Premier Investments
+Priceline
+Pro Medicus
+QBE Insurance
+Qube Holdings
+Queensland University of Technology
+RAA
+RAC
+RACQ
+RACQ Bank
+RACT
+RACV
+RMIT University
+RSM
+RSPCA
+Ramsay Health Care
+RateCity
+Readytech
+Real Insurance
+Rebel Sport
+Red Energy
+Red Rooster
+Reece Group
+Regis Resources
+Reliance Worldwide
+Repco
+ResMed
+Rex Airlines
+Rivers
+Roberts Co
+Rockmans
+Roger David
+SA Power Networks
+SBS
+SCT Logistics
+SafetyCulture
+Salvos
+Sanitarium
+Santos
+Scenic Group
+Scentre Group
+Schnitz
+Scope
+SecondBite
+Sendle
+Seven West Media
+Shine Lawyers
+Sigma Healthcare
+Simplot
+Simply Energy
+Sims Metal Management
+Sky Racing
+Slater and Gordon
+Smith Family
+Sonic Healthcare
+South Metropolitan TAFE
+South32
+Southern Cross Austereo
+Southern Phone
+Spark Infrastructure
+Sparke Helmore
+Spintel
+Sportsgirl
+St Vincent de Paul Society
+Stan
+StarTrack
+Steadfast Group
+Stockland
+Strandbags
+Sullivan Nicolaides Pathology
+Suncorp
+Suncorp Insurance
+Supercheap Auto
+Sussan
+Swinburne University
+Sydney Morning Herald
+Symbion
+TAFE NSW
+TAFE Queensland
+TAFE SA
+TEG Live
+TNT
+TPG Telecom
+Tabcorp
+Target
+Tarocash
+TasNetworks
+Teachers Health
+Teachers Mutual Bank
+Technology One
+Telstra
+Terry White Chemmart
+The Advertiser
+The Age
+The Australian
+The Coffee Club
+The Courier-Mail
+The Reject Shop
+The Star Entertainment Group
+The West Australian
+The a2 Milk Company
+Think Education
+Ticketek
+Tip Top
+Tip Top Bakeries
+Toll Group
+Torrens University
+Total Tools
+Transgrid
+Transurban
+Treasury Wine Estates
+Tyro Payments
+United Energy
+Uniting
+University of Adelaide
+University of Melbourne
+University of New England
+University of New South Wales
+University of Newcastle
+University of Queensland
+University of Sydney
+University of Technology Sydney
+University of Western Australia
+University of Wollongong
+University of the Sunshine Coast
+Vicinity Centres
+Village Cinemas
+Virgin Australia
+Virtus Health
+Vision Australia
+Visy
+Viva Energy
+Vocus Group
+Vodafone
+Waypoint REIT
+Webjet
+Western Power
+Whitehaven Coal
+WiseTech Global
+Witchery
+Woodside Energy
+Worley
+Yancoal
+Youi
+Zambrero
+Zip Co
+headspace
+iiNet
