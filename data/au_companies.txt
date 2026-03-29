@@ -363,10 +363,8 @@ TAFE NSW
 TAFE Queensland
 TAFE SA
 TEG Live
-TNT
-TPG Telecom
+TPG
 Tabcorp
-Target
 Tarocash
 TasNetworks
 Teachers Health
