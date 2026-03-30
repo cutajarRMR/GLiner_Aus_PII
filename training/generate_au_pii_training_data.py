@@ -203,7 +203,7 @@ def call_gpt(client: OpenAI, orgs, gov, locs, context, n=8, retries=3) -> list[d
     for attempt in range(retries):
         try:
             response = client.chat.completions.create(
-                model="gpt-5",
+                model="gpt-4o-mini",
                 #max_completion_tokens=2000,
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT},
