@@ -72,7 +72,7 @@ Required format:
 {
   "samples": [
     {
-      "text": "The full sentence as a string.",
+      "text": "The full response as a string.",
       "entities": [
         {"text": "entity string", "label": "LABEL", "start": N, "end": N}
       ]
@@ -88,13 +88,13 @@ Labels to use:
 Hard rules:
   1. Character offsets (start, end) must be EXACT. text[start:end] must equal entity "text".
   2. end = start + len(entity text). Double-check this before outputting.
-  3. Use varied sentence structures. Avoid always starting with "I work at...".
+  3. Use varied sentence structures. Avoid always starting with "I work at...". Some should be responses that are phrase answers with no context.
   4. Entities should appear naturally in realistic survey language.
-  5. Mix entity types within sentences where natural.
-  6. Include a range of sentence lengths (short, medium, and occasionally longer).
+  5. Mix entity types within responses where natural.
+  6. Include a range of response lengths (short, medium, and occasionally longer).
   7. Only use organisations and locations from the provided lists.
   8. Do not invent or hallucinate entity names not in the provided lists.
-  9. Make each sentence mirror real Australian survey responses, with a variety of contexts and sentiments.
+  9. Make each response mirror real Australian survey responses, with a variety of contexts and sentiments.
 """
 
 def build_user_prompt(orgs: list, gov: list, locs: list, context: str, n: int) -> str:
