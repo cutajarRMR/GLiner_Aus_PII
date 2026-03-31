@@ -26,6 +26,8 @@ from pathlib import Path
 def train(train_path: str, eval_path: str, output_dir: str):
     from gliner import GLiNER
     from gliner.training import Trainer, TrainingArguments
+    from gliner.data_processing import GLiNERDataset
+    from gliner.data_processing.collator import DataCollatorWithPadding
 
     print("Loading base model: knowledgator/gliner-pii-large-v1.0")
     model = GLiNER.from_pretrained("knowledgator/gliner-pii-large-v1.0")
@@ -37,6 +39,10 @@ def train(train_path: str, eval_path: str, output_dir: str):
 
     print(f"Train samples: {len(train_data)}")
     print(f"Eval samples:  {len(eval_data)}")
+
+    train_dataset = GLiNERDataset(train_data, model.config, model.data_processor)
+    eval_dataset  = GLiNERDataset(eval_data,  model.config, model.data_processor)
+    data_collator = DataCollatorWithPadding(model.config)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -53,7 +59,7 @@ def train(train_path: str, eval_path: str, output_dir: str):
         warmup_ratio=0.1,
         weight_decay=0.01,
 
-        evaluation_strategy="epoch",
+        eval_strategy="epoch",
         save_strategy="epoch",
         load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
@@ -66,8 +72,9 @@ def train(train_path: str, eval_path: str, output_dir: str):
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=train_data,
-        eval_dataset=eval_data,
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset,
+        data_collator=data_collator,
     )
 
     print("\nStarting training...")
