@@ -1,0 +1,6 @@
+tqdm==4.67.1
+openai==2.6.1
+gliner==0.2.26
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.27.0          # Required by GLiNER Trainer
