@@ -95,6 +95,7 @@ Hard rules:
   7. Only use organisations and locations from the provided lists.
   8. Do not invent or hallucinate entity names not in the provided lists.
   9. Make each response mirror real Australian survey responses, with a variety of contexts and sentiments.
+10. Do not start any response with {"Living in", "As a", "I recently", "I appreciate", "I often", "The support", "Working with"}
 """
 
 def build_user_prompt(orgs: list, gov: list, locs: list, context: str, n: int) -> str:
